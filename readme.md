@@ -22,6 +22,7 @@ cryptocurrency tokens
 
 
 - Bitcoin BTC [code](https://github.com/bitcoin/) [whitepaper](https://bitcoin.org/bitcoin.pdf)
+- Ethereum ETH [code](https://github.com/ethereum/) [whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
 
 
 
