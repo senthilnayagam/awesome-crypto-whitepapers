@@ -16,6 +16,7 @@ cryptocurrency tokens
 - EOS (EOS) [code](https://github.com/EOSIO/eos) [whitepaper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md)
 - TRON (TRX) [code](https://github.com/tronprotocol) [whitepaper](https://o836fhe91.qnssl.com/tron/whitebook/TronWhitepaper_en.pdf)
 - Populous (PPT) [code](https://github.com/Bitpopulous) [whitepaper](http://populous.co/populous_whitepaper.pdf)
+- FundYourselfNow (FYN) [code](https://github.com/PinnacleOne/FYNTokens) [whitepaper](https://www.fundyourselfnow.com/wp-content/uploads/2017/04/FYN-Business_Outline-2017.pdf)
 
 ## Cryptocurrency
 
