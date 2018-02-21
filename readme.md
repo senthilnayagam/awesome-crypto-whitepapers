@@ -16,6 +16,7 @@ cryptocurrency tokens
 - EOS (EOS) [code](https://github.com/EOSIO/eos) [whitepaper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md)
 - TRON (TRX) [code](https://github.com/tronprotocol) [whitepaper](https://o836fhe91.qnssl.com/tron/whitebook/TronWhitepaper_en.pdf)
 - Populous (PPT) [code](https://github.com/Bitpopulous) [whitepaper](http://populous.co/populous_whitepaper.pdf)
+- Matchpool (GUPPY) [code](https://github.com/Matchpool/) [whitepaper](https://matchpool.co/wp-content/uploads/2017/04/mp_wp3.pdf)
 
 ## Cryptocurrency
 
