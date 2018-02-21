@@ -16,6 +16,7 @@ cryptocurrency tokens
 - EOS (EOS) [code](https://github.com/EOSIO/eos) [whitepaper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md)
 - TRON (TRX) [code](https://github.com/tronprotocol) [whitepaper](https://o836fhe91.qnssl.com/tron/whitebook/TronWhitepaper_en.pdf)
 - Populous (PPT) [code](https://github.com/Bitpopulous) [whitepaper](http://populous.co/populous_whitepaper.pdf)
+- Melon (MLN) [code](https://github.com/melonproject) [whitepaper](https://github.com/melonproject/greenpaper/blob/master/melonprotocol.pdf)
 
 ## Cryptocurrency
 
